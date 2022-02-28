@@ -1,0 +1,28 @@
+.row{
+    margin-top: 2%;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+fa-solid{
+    color: #000;
+}
+.badge{
+    margin-left: 5%;
+}
+.row{
+    left: 50%;
+}
+.added{
+    margin-left: 10%;
+    background-color: aliceblue;
+}
+.btn{
+    width: 80%;
+    text-align: left;
+}
+body{
+    background-color: #c5e3d9;
+}
